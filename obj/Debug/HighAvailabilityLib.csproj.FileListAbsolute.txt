@@ -1,0 +1,17 @@
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\HighAvailabilityLib.dll.config
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\HighAvailabilityLib.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\HighAvailabilityLib.pdb
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.Data.Edm.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.Data.OData.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Newtonsoft.Json.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\System.Spatial.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.Data.Edm.xml
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\Microsoft.Data.OData.xml
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\bin\Debug\System.Spatial.xml
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\obj\Debug\HighAvailabilityLib.csprojResolveAssemblyReference.cache
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\obj\Debug\HighAvailabilityLib.dll
+C:\rd\rd_websites_n\services\websites\src4\Hosting\Test\Tools\HighAvailabilityLib\HighAvailibilityLib\obj\Debug\HighAvailabilityLib.pdb
